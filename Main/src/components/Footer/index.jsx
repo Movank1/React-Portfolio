@@ -1,14 +1,14 @@
 function Footer() {
 
-  // Replace links with social media profiles
+  
   const icons = [
     {
       name: "fab fa-github",
-      link: "https://github.com/"
+      link: "https://github.com/Movank1"
     },
     {
       name: "fab fa-linkedin",
-      link: "https://www.linkedin.com/"
+      link: "https://www.linkedin.com/movank@gmail.com"
     },
     {
       name: "fab fa-stack-overflow",

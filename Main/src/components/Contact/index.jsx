@@ -15,7 +15,7 @@ function Contact() {
   const handleSubmit = (e) => {
     e.preventDefault();
     if (!errorMessage) {
-      console.log('Submit Form', formState);
+      console.log('Please Submit Form', formState);
     }
   };
 
@@ -23,7 +23,7 @@ function Contact() {
     if (e.target.name === 'email') {
       const isValid = validateEmail(e.target.value);
       if (!isValid) {
-        setErrorMessage('Your email is invalid.');
+        setErrorMessage('Please review Your email is invalid.');
       } else {
         setErrorMessage('');
       }
