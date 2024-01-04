@@ -6,35 +6,30 @@ function Portfolio() {
   // Replace links with deployed projects and GitHub repos
   const [projects] = useState([
     {
-      name: 'surfReport',
-      description: 'MERN Stack',
+      name: 'Texeditor',
+      description: 'PAW',
       link: "https://github.com",
-      repo: "https://github.com"
+      repo: "https://github.com/Movank1/Text-Editor-2"
     },
     {
-      name: 'pastelPuzzels',
-      description: 'MERN Stack',
+      name: 'SQL',
+      description: 'EmployeeTracker',
       link: "https://github.com",
-      repo: "https://github.com"
+      repo: "https://github.com/Movank1/Employee-Tracker-3"
     },
     {
-      name: 'runBuddy',
+      name: 'CSS',
       description: 'HTML/CSS',
       link: "https://github.com",
-      repo: "https://github.com"
+      repo: "https://github.com/Movank1/modeste-portfolio"
     },
     {
-      name: 'ledWall',
-      description: 'Node/IoT',
+      name: 'ECommerce',
+      description: 'ORM',
       link: "https://github.com",
-      repo: "https://github.com"
+      repo: "https://github.com/Movank1/E-Commerce"
     },
-    {
-      name: 'calculator',
-      description: 'React/JavaScript/CSS',
-      link: "https://github.com",
-      repo: "https://github.com"
-    },
+    
   ]);
 
   return (
