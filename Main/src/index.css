@@ -33,7 +33,7 @@ body {
   line-height: 1.5;
   font-size: 18px;
   letter-spacing: 0.1em;
-  background: var(--darker);
+  background: #3C4405;
   color: var(--light);
   font-family: 'Open Sans', sans-serif;
 }

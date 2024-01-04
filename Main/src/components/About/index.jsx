@@ -6,10 +6,16 @@ function About() {
         <i className="fas fa-user-circle" style={{ fontSize: "96px" }}></i>
         </div>
         <p>
-        Helvetica put a bird on it church-key Blue Bottle banjo bespoke brunch Etsy authentic Marfa quinoa typewriter plaid direct trade small batch wayfarers bicycle rights cliche craft beer gastropub single-origin coffee Godard Carles you probably haven't heard of them irony pickled kitsch synth sriracha gentrify literally heirloom blog Truffaut paleo scenester
+        I currently have MBA specialized in Fianance. I am currently work in Bank here in Charlotte,
+        NC. I love my job a lot. But my dream was to work in coding since I love coding especially, 
+        I enjoy to work on my coding projects efficiently and 
+        I am always happy to see my contributions in team and my coding accomplishment. 
         </p>
+        
         <p>
-        Echo Park sriracha Pinterest vegan biodiesel 90's irony iPhone Kickstarter Carles crucifix kitsch narwhal dreamcatcher pickled trust fund selvage art party letterpress Tumblr post-ironic kogi Thundercats Tonx Brooklyn Pitchfork Odd Future authentic normcore freegan leggings Schlitz chambray organic tousled retro fap squid street art church-key fashion axe Wes Anderson bespoke whatever gentrify banh mi you probably haven't heard of them American Apparel next level pug ugh.
+        At UNCC boot comp we learned a lot Things in coding; HTML; CSS; JavaScript; jQuery; 
+        Responsive design; React; Bootstrap; for back end we learned API; Node; Express;
+         MySQL, Sequelize; MongoDB, Mongoose, REST and GraphQL
         </p>
       </div>
     </section>
